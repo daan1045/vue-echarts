@@ -1,25 +1,14 @@
-# vision2
+# 随手练习笔记
 
-## Project setup
+## 图片示例
 
-```
-yarn install
-```
+![Image text](https://github.com/daan1045/vue-echarts/blob/master/src/assets/images/1.png)
 
-### Compiles and hot-reloads for development
+![Image text](https://github.com/daan1045/vue-echarts/blob/master/src/assets/images/2.png)
 
+## 本项目需要用到模拟数据--koa_server
 ```
-yarn serve
+需要koa_server
 ```
-
-### Compiles and minifies for production
-
-```
-yarn build
-```
-
-### Lints and fixes files
-
-```
-yarn lint
-```
+## 捐献
+![Image text](https://github.com/daan1045/vue-echarts/blob/master/src/assets/images/3.png)
